@@ -1,0 +1,8 @@
+
+.custom {
+    background-image: url("..\resources\books.jpg");
+    background-size: cover;
+    margin: 0vh;
+    padding: 0vh;
+    min-height: 100vh;
+}

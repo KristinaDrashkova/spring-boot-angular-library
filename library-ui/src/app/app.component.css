@@ -1,0 +1,7 @@
+
+.custom {
+    background-image: url("components\resources\books.jpg");
+    background-size: cover;
+    margin: 0vh;
+    padding: 0vh;
+}
